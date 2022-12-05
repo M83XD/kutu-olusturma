@@ -1,0 +1,22 @@
+body {
+    background-color: aqua;
+}
+a:link{
+    color: darkslateblue;
+}
+a:hover{
+    color: darkslategrey;
+}
+a:active{
+    color: mediumpurple;
+}a:visited{
+    color: midnightblue;
+}
+a:focus{
+    color: seagreen;
+}
+.kutu{
+    width: 100px;
+    height: 100px;
+    background-color: teal;
+}
